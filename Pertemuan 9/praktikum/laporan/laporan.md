@@ -86,7 +86,7 @@ public class Segitiga {
 
 
 > Output Program
-
+<br>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%209/praktikum/img/tugas%20Overloading.PNG" width=500px>
 
 ### Nomor 2
@@ -211,5 +211,5 @@ public class DemoManusia {
 ```
 
 > Output Program
-
+<br>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%209/praktikum/img/tugas%20Overrinding.PNG" width=500px>
