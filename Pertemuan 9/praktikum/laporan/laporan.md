@@ -41,8 +41,10 @@
 
    Jawab : Pada method swim didalam class Piranha mempunyai modifier dan tipe method yang sama dengan method swim yang ada didalam class Ikan, maka dari itu dinamakan overriding.
 
-## TUGAS
+## Nomer 1
 <blockquote>HASIL TUGAS OVERLOADING </blockquote>
+## Code Program
+
 > Code Program
 /*
  * To change this license header, choose License Headers in Project Properties.
