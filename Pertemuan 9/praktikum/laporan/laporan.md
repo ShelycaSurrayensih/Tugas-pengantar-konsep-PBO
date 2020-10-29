@@ -45,12 +45,9 @@
 <blockquote>HASIL TUGAS OVERLOADING </blockquote>
 ## Code Program
 
-> Code Program
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+> class Segitiga
+
+```
 package tugasPertemuan9;
 
 /**
@@ -100,7 +97,7 @@ public class Segitiga {
 > Class Manusia
 
 ```
-package Tugas;
+package tugasPertemuan9;
 
 /**
  *
@@ -120,7 +117,7 @@ public class Manusia {
 > Class Dosen
 
 ```
-package Tugas;
+package tugasPertemuan9;
 
 /**
  *
@@ -140,7 +137,7 @@ public class Dosen extends Manusia{
 > Class Mahasiswa
 
 ```
-package Tugas;
+package tugasPertemuan9;
 
 /**
  *
@@ -165,7 +162,7 @@ public class Mahasiswa extends Manusia{
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Tugas;
+package tugasPertemuan9;
 
 /**
  *
