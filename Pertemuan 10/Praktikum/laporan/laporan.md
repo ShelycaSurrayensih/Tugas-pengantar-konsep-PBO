@@ -3,6 +3,7 @@
 ## pertanyaan diskusi
 Bolehkah apabila sebuah class yang meng-extend suatu abstract class tidak mengimplementasikan method abstract yang ada di class induknya? Buktikan!
 Jawaban : Tidak boleh karena jika tidak mengimplementasikan method abstract yang ada di class induknya maka akan terjadi eror. Berikut buktinya :
+<br>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/output%20diskusi.PNG
 " width=500px>
 
