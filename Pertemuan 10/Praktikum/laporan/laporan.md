@@ -13,14 +13,21 @@ Jawab : Program diatas menggunakan metode abstract class, dimana pada class Hewa
 
 2. Tunjukkan hasil kompilasi program dan berikan penjelasan singkat jika method bergerak() diubah menjadi method abstract!
 
-Jawab :<img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/1.PNG" width=500px>
+Jawab :
+<img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/1.PNG" width=500px>
 
 3.Tunjukkan hasil kompilasi program dan berikan penjelasan singkat jika tidak dilakukan overriding terhadap method bergerak()
 
-Jawab :<img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/2.PNG" width=500px>
+Jawab :
+<img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/2.PNG" width=500px>
+
+<br>
+
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/3.PNG" width=500px>
 
 #output program
+<br>
+
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/4.PNG" width=500px>
 
 Program akan error ketika dijalankan, karena jika class parent sudah dideklarasikan sebagai abstract class maka class turunannya harus memiliki method abstract yang sudah dideklrasikan di class parent atau di-override.
@@ -30,10 +37,11 @@ Program akan error ketika dijalankan, karena jika class parent sudah dideklarasi
 Jawab :
 
 Pada class Ikan akan ditambahkan method abstract bergerak();
+<br>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/5.PNG" width=500px>
-
+<br>
 Akan tetapi pada class Program terjadi notif error dikarenakan untuk class Abstract tidak dapat diinstansiasi .
-
+<br>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2010/Praktikum/laporan/6.PNG" width=500px>
 
 
