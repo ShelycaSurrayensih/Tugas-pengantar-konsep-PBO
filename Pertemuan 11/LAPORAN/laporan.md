@@ -1,7 +1,10 @@
 # LAPORAN JOBSHEET 11 – INTERFACE DALAM OOP JAVA
 ## <blockquote>HASIL OUTPUT PERCOBAAN 1</blockquote>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2011/img/Output%20P1.PNG" width=500px>
+
+
 ## Jawaban Pertanyaan Percobaan 1
+
 1. Pada langkah ke 9, pada baris program ke 3 terdapat warning pada script tersebut. Jelaskan penyebab terjadinya hal tersebut ? 
 <br>Jawaban : karena class interface ICumlaude yang berada pada satu package
 
@@ -21,11 +24,13 @@
 <br>Jawaban : Pada class interface ICumlaude ditambahi method public abstract void kuliahDiKampus(); kemudian pada class Rektor di method beriSertifikatCumlaude() ditambahi baris program mahasiswa.kuliahDiKampus();
 <br>Berikut gambar letak perubahan di class interface ICumlaude : <br><img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2011/img/M1.JPG" width=500px>
 <br>Berikut gambar letak perubahan di class Rektor : <br><img src="hhttps://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2011/img/M2.JPG" width=500px>
-<br>Berikut gambar Output Modifikasi: <br><img src = <br><img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2011/img/Modifikasi%20P1.PNG" width=500px> 
+<br>Berikut gambar Output Modifikasi: <br><img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2011/img/Modifikasi%20P1.PNG" width=500px> 
 
 ## <blockquote>HASIL OUTPUT PERCOBAAN 2</blockquote>
 <img src="https://github.com/ShelycaSurrayensih/Tugas-pengantar-konsep-PBO/blob/master/Pertemuan%2011/img/Output%20P2.PNG" width=500px>
+
 ## Jawaban Pertanyaan Percobaan 2
+
 1. Pada script code interface IBerprestasi, modifikasi script tersebut sesuai dengan gambar dibawah ini : <br>Dari perubahan script diatas, apa yang terjadi ? serta jelaskan alasannya (capture hasilnya)
 <br>Jawaban : Terjadi eror karena aturan dalam struktur penulisan interface, modifier method yang diperbolehkan hanya public saja. 
 
